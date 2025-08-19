@@ -44,5 +44,5 @@ A detailed `environment.yml` and `requirements.txt` are provided.
 ## 🚀 Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-org>/ISG15-Tcell-Atlas.git
+   git clone https://github.com/compbioCN/ISG15-Tcell-Atlas.git
    cd ISG15-Tcell-Atlas
