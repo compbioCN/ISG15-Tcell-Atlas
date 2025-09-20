@@ -23,7 +23,7 @@ Key findings:
 - `scRNA-seq/` — Scripts for preprocessing, QC, clustering, and integration of scRNA-seq datasets  
 - `spatial/` — Code for Visium HD and Xenium spatial transcriptomics analyses  
 - `scATAC-seq/` — Workflows for scATAC-seq preprocessing and regulatory analysis using ArchR  
-- `bulk/` — Bulk RNA-seq GSVA scoring and survival analysis scripts 
+- `bulk RNA-seq/` — Bulk RNA-seq GSVA scoring and survival analysis scripts 
 ---
 
 ## ⚙️ Requirements
